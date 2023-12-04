@@ -8,7 +8,7 @@ cd sneakerspot/src/backend
 # Terminal 2
 cd sneakerspot/src
 
-###`npm start`
+### `npm start`
 
 nodemon app.js
 
