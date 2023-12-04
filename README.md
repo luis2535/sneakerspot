@@ -4,13 +4,14 @@ cd sneakerspot/src/backend
 
 ### `npm install express pg`
 ### `npm install -g nodemon`
+### `nodemon app.js`
 
 # Terminal 2
 cd sneakerspot/src
 
 ### `npm start`
 
-nodemon app.js
+
 
 # Getting Started with Create React App
 
