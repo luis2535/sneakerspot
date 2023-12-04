@@ -1,3 +1,17 @@
+Projeto feito para aplicar estudos de REACT e Node, aplicação consiste em um e-commerce de tenis
+# Terminal 1
+cd sneakerspot/src/backend
+
+### `npm install express pg`
+### npm install -g nodemon`
+
+# Terminal 2
+cd sneakerspot/src
+
+###`npm start`
+
+nodemon app.js
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
