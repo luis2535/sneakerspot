@@ -3,7 +3,7 @@ Projeto feito para aplicar estudos de REACT e Node, aplicação consiste em um e
 cd sneakerspot/src/backend
 
 ### `npm install express pg`
-### npm install -g nodemon`
+### `npm install -g nodemon`
 
 # Terminal 2
 cd sneakerspot/src
